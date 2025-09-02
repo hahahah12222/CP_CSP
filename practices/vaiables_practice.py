@@ -1,0 +1,11 @@
+#CP 7th Vaiables Practice 
+your_name="Ciara Payne"
+school="ucas"
+number_1-10="7"
+the_year="2025"
+number_300-100="200"
+eye_color="blue"
+ate_for_breakfast="toast"
+age="15"
+color="green"
+suject="biology"
