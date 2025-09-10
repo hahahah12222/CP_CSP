@@ -1,6 +1,3 @@
-
-Code
-Blame 11 lines (10 loc) 453 Bytes
 # JL 7th expressions practice
 print("7-24/8*4+6=", 7-24/8*4+6)
 print("18/3-7+2*5", 18/3-7+2*5)
