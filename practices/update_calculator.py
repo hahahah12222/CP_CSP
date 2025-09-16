@@ -1,3 +1,5 @@
+#CP 7 update caluculator 
+
 def print_expense(category_name, amount, income):
     percentage = round((amount / income) * 100, 2)
     print(f"You pay ${amount:.2f} for {category_name} each month, that is {percentage}% of your income")
