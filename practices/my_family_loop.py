@@ -2,5 +2,5 @@
 
 family=["Sara", "Caleb","Curtis","Rohann","gyan","Zoey"]
 
-for family in family:
-    print(f"hello{family}")
+for name in family:
+    print(f"hello{name}")
