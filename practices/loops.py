@@ -10,7 +10,7 @@ for food in food:
 for x in range(1,20):
      print(x)
 
-#while loops
+#while loops.
 i = 0
 while True:
     print(i)
