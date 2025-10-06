@@ -30,23 +30,23 @@ int main(void){
 // 3. List three common data types used in C and their corresponding format specifiers for printf().
 //integers, which which you declare with int. Floats and double
 // 4. How do you declare and initialize an integer variable named "age" with the value 25 in C?
-// int age = 25
+// with int
 // 5. What is the difference between printf() and scanf() functions in C?
-//  printf() is used for output and the other is input
+//printf prints and scanf scans
 // 6. How do you add comments in C?
-//start with and // and ectend to the end of the line
+// using "//"
 // 7. What is the purpose of the #include <stdio.h> line at the beginning of a C program?
-// include 
+// letting c know that youre planning on printing stuff and geting information.
 // 8. In C, what is the significance of the main() function?
-
+// cant use function without it
 // 9. What is the difference between %d and %f format specifiers in printf()?
-
+//$d is for digits and numbers, $f is for floats 
 // 10. How do you print a newline character in C?
-
+// \n
 // 11. What is the purpose of the & symbol when using scanf() to get user input?
-
+//to update and int when you input something
 // 12. How do you declare a constant in C? Provide an example.
-
+// constant is just when you put a lid in a box, you can't open it
 
 
 
