@@ -8,7 +8,7 @@ int main (boid){
     printf("%d",year);
     printf("%d\n", 8.0/3) ;
     printf("%f\n",8/3);
-    printf("%d\n",(int) pow(2,4))
+    printf("%d\n",(int) pow(2,4));
 
 
     year +=1;//compound assiment operator
