@@ -7,8 +7,10 @@ int main(void){
     float pi = 3.14; // 4 bytes
     double long_pi = 3.1415926358; //8 bytes
     char letter_grade = 'A'; // 1 byte
-    char name[] = "Ciara";
+    char name[50];
     //user iput
+    printf("what is your name;\n");
+    fgets(name, sizeof(name), stdin);
 
     printf("what is your grade as a whole number: ");
     scanf(" %c", &grade);
