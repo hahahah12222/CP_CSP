@@ -20,5 +20,8 @@ int main (void){
     } else if (age >= 5){
         printf("you can go to school: (\n");
     }
+    else{
+        printf("you suck");
+    }
     return 0;
 }
