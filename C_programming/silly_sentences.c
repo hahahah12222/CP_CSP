@@ -18,4 +18,6 @@ int main(void){
     scanf("%s", verb);
 
     printf("The %s %s %sed loudly.\n", adjective, noun, verb);
+
+    return 0;
 }
